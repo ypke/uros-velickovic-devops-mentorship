@@ -49,4 +49,5 @@
 ![screenshot of level 0](assets/images/chapter16-5.png)
 ![screenshot of level 0](assets/images/chapter16-6.png)
 ![screenshot of level 0](assets/images/chapter16-7.png)
+I was installed the vim on the server because of theme 
 ![screenshot of level 0](assets/images/chapter16-8.png)
