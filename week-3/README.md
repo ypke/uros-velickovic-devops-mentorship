@@ -35,6 +35,7 @@
 ![screenshot of level 0](assets/images/chapter14-test25-26-27.png)
 ![screenshot of level 0](assets/images/chapter14-test28.png)
 ## Chapter 15
+> this chapter start from test8.sh script, before it there are only some examples that are not a scripts
 ![screenshot of level 0](assets/images/chapter15-test1-2-3-4-5-6-7-8-9-10-11.png)
 ![screenshot of level 0](assets/images/chapter15-test12-13-14-15-16-17.png)
 ![screenshot of level 0](assets/images/chapter15-test18-19-20-21.png)
@@ -49,5 +50,6 @@
 ![screenshot of level 0](assets/images/chapter16-5.png)
 ![screenshot of level 0](assets/images/chapter16-6.png)
 ![screenshot of level 0](assets/images/chapter16-7.png)
-I was installed the vim on the server because of theme 
+
+I was installed the vim on the server because of theme, it is more readable writhing the code with it
 ![screenshot of level 0](assets/images/chapter16-8.png)
